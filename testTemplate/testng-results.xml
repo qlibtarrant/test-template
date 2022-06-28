@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-27T16:35:19 EDT" name="Default Suite" finished-at="2022-06-27T16:35:35 EDT" duration-ms="15875">
+    <groups>
+    </groups>
+    <test started-at="2022-06-27T16:35:19 EDT" name="testTemplate" finished-at="2022-06-27T16:35:35 EDT" duration-ms="15875">
+      <class name="org.example.TestTemplate">
+        <test-method is-config="true" signature="setupDriverAndPages()[pri:0, instance:org.example.TestTemplate@1d371b2d]" started-at="2022-06-27T16:35:19 EDT" name="setupDriverAndPages" finished-at="2022-06-27T16:35:20 EDT" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriverAndPages -->
+        <test-method signature="generateNameDisplaysText()[pri:0, instance:org.example.TestTemplate@1d371b2d]" started-at="2022-06-27T16:35:20 EDT" name="generateNameDisplaysText" finished-at="2022-06-27T16:35:34 EDT" duration-ms="13870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateNameDisplaysText -->
+        <test-method signature="visitDeityPage()[pri:0, instance:org.example.TestTemplate@1d371b2d]" started-at="2022-06-27T16:35:34 EDT" name="visitDeityPage" finished-at="2022-06-27T16:35:35 EDT" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitDeityPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.example.TestTemplate@1d371b2d]" started-at="2022-06-27T16:35:35 EDT" name="tearDown" finished-at="2022-06-27T16:35:35 EDT" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.example.TestTemplate -->
+    </test> <!-- testTemplate -->
+  </suite> <!-- Default Suite -->
+</testng-results>
