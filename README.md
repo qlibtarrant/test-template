@@ -1,2 +1,13 @@
 # test-template
-This is a template created in the Kotlin language, for running selenium tests.
+This Kotlin test template is used to automate Selenium tests in runtime using CSS Selectors. 
+
+
+How To Use? 
+
+- Using the POM (Page object model) create page objects of your web application within a pages or page objects package. Each page you’re testing should have its own page object.
+
+- On the BasePage, make sure to replace the URL with the URL of the website you will be testing. 
+
+- Setup the driver and the pages. 
+
+**Feel free to modify as necessary. 
