@@ -8,6 +8,8 @@ How To Use?
 
 - On the BasePage, make sure to replace the URL with the URL of the website you will be testing. 
 
-- Setup the driver and the pages. 
+- Setup the driver and the pages.
+
+Selenium WebDriver documentation - https://www.selenium.dev/documentation/webdriver/ 
 
 **Feel free to modify as necessary. 
