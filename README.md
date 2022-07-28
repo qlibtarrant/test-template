@@ -10,6 +10,10 @@ How To Use?
 
 - Setup the driver and the pages.
 
+- Setup the CSS Selectors you'll be testing on each page.
+
+- Create your test functions to run your tests.
+
 Selenium WebDriver documentation - https://www.selenium.dev/documentation/webdriver/ 
 
 **Feel free to modify as necessary. 
